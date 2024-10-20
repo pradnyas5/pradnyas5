@@ -67,7 +67,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyas5)](https://github.com/pradnyas5/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyas5&langs_count=8&layout=compact&theme=radical&exclude_repo=pradnyas5.github.io)
 
 ---
 ### Feel free to connect and collaborate on robotics projects!
