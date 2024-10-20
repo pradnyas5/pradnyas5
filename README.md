@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm [Pradnya!](https://github.com/pradnyas5)
 
 <img align="center" alt="Robotics GIF" src="https://media.giphy.com/media/AvVomHLXVfoLrgmlJX/giphy.gif" width="480" height="264" />
+*Robot Credits: Boston Dynamics*
 
 ## I'm a Robotics Engineer passionate about Perception and Navigation!
 
