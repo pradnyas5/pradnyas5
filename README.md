@@ -51,7 +51,7 @@
 ### Areas of Interest
 
 - Computer Vision for Robotics
-- Motion Planning Algorithms
+- Motion Planning
 - Robot Perception and Localization
 - Autonomous Systems Design
 
