@@ -1,16 +1,56 @@
-## Hi there 👋
+### Hi there 👋 I'm [Pradnya!](https://github.com/pradnyas5)
 
-<!--
-**pradnyas5/pradnyas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="160px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVudXQ2aHp6cW51dWc4NjJrbzU4YzlxaTQ5ajRlZjU3am9wdTNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AvVomHLXVfoLrgmlJX/giphy.gif" />
 
-Here are some ideas to get you started:
+## I'm a Robotics Engineer passionate about Perception and Navigation!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 I’m currently working on robotics projects focused on perception, motion planning, and robot localization.
+- 🛠 I’m proficient in computer vision, robot kinematics, and path planning algorithms like RRT\* and A\*.
+- 🌱 Learning new technologies in robotics and artificial intelligence to create autonomous systems.
+- 🎯 Future Goals: Contribute to cutting-edge research in robotics and deploy real-world applications.
+
+---
+
+##### Languages I use
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=mathworks)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+##### Technologies & Tools I work with
+
+![ROS](https://img.shields.io/badge/-ROS-222222?style=flat&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=tensorflow&logoColor=FF6F00)
+![Pytorch](https://img.shields.io/badge/-Pytorch-222222?style=flat&logo=pytorch&logoColor=E04E39)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Gazebo](https://img.shields.io/badge/-Gazebo-222222?style=flat&logo=gazebo)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+
+---
+
+### Projects
+- [Language Embodied Indoor Navigation](https://github.com/pradnyas5/Language-Embodied-Navigation-using-Local-and-Global-Planners)
+  - A simulation project focused on navigating a robot to a goal based on spoken language commands.
+  
+- [Hexapod Robot Control](https://github.com/pradnyas5/Hexapod-Robot-Control)
+  - A project to develop control algorithms for a miniature hexapod robot for multi-terrain navigation.
+
+- [Perception-based Robot Localization](https://github.com/pradnyas5/Robot-Localization)
+  - A localization project utilizing ArUco Marker detection for real-time robot tracking.
+
+---
+
+##### Areas of Interest
+
+- Computer Vision for Robotics
+- Motion Planning Algorithms
+- Robot Perception and Localization
+- Autonomous Systems Design
+
+---
+
+Feel free to connect and collaborate on robotics projects!
