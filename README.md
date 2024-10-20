@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Pradnya!](https://github.com/pradnyas5)
 
-<iframe src="https://giphy.com/embed/AvVomHLXVfoLrgmlJX" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/EcrookedletterZ-house-music-robotics-bots-AvVomHLXVfoLrgmlJX">via GIPHY</a></p>
+<img align="center" alt="Robotics GIF" src="https://media.giphy.com/media/AvVomHLXVfoLrgmlJX/giphy.gif" width="480" height="264" />
 
 ## I'm a Robotics Engineer passionate about Perception and Navigation!
 
