@@ -3,7 +3,7 @@
 <img align="center" alt="Robotics GIF" src="https://media.giphy.com/media/AvVomHLXVfoLrgmlJX/giphy.gif" width="480" height="264" />
 *Robot Credits: Boston Dynamics*
 
-## I'm a Robotics Engineer passionate about Perception and Navigation!
+## I'm a Robotics SOFTWARE Engineer passionate about Perception and Navigation!
 
 - 🤖 I’m currently working on robotics projects focused on perception, motion planning, and robot localization.
 - 🛠 I’m proficient in computer vision, deep learning, state estimation, and motion planning.
