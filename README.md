@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Pradnya!](https://github.com/pradnyas5)
 
-<img align="right" alt="GIF" height="160px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVudXQ2aHp6cW51dWc4NjJrbzU4YzlxaTQ5ajRlZjU3am9wdTNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AvVomHLXVfoLrgmlJX/giphy.gif" />
+<iframe src="https://giphy.com/embed/AvVomHLXVfoLrgmlJX" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/EcrookedletterZ-house-music-robotics-bots-AvVomHLXVfoLrgmlJX">via GIPHY</a></p> />
 
 ## I'm a Robotics Engineer passionate about Perception and Navigation!
 
