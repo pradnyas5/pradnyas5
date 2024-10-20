@@ -67,7 +67,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyas5)](https://github.com/pradnyas5/github-readme-stats)
 
 ---
 ### Feel free to connect and collaborate on robotics projects!
