@@ -57,13 +57,19 @@
 
 ---
 
-### GitHub Stats
+### Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=pradnyas5)
+
+---
 
 ![Pradnya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradnyas5&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyas5&langs_count=8&layout=compact&theme=radical)
 
+---
 ### Feel free to connect and collaborate on robotics projects!
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradnya-sushil-shinde-30a550208/)
