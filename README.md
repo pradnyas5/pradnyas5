@@ -36,15 +36,15 @@
 
 ---
 
-### Projects
-- [Language Embodied Indoor Navigation](https://github.com/pradnyas5/Language-Embodied-Navigation-using-Local-and-Global-Planners)
-  - A simulation project focused on navigating a robot to a goal based on spoken language commands.
+### Experience
+- Robotics Software Engineer Intern @ [Celltrio](https://celltrio.com/)
+  - R&D: Implementing Tool Transform functionality for precise end-effector manipulation in Cell Culture Automation.
   
-- [Hexapod Robot Control](https://github.com/pradnyas5/Hexapod-Robot-Control)
-  - A project to develop control algorithms for a miniature hexapod robot for multi-terrain navigation.
+- Robotics Software Engineer Intern @ [National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/)
+  - Contributed to Autonomy Software stack for a warehouse mobile manipulator.
 
-- [Perception-based Robot Localization](https://github.com/pradnyas5/Robot-Localization)
-  - A localization project utilizing ArUco Marker detection for real-time robot tracking.
+- Robotics Engineer Intern @ [Technodune Pvt. Ltd.](https://www.linkedin.com/company/technodune/about/)
+  - Developed and designed hardware and software for a robot manipulator, a miniature hexapod, and a vision-based robot localization system.
 
 ---
 
