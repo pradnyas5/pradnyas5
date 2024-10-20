@@ -63,10 +63,6 @@
 
 ---
 
-![Pradnya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradnyas5&theme=highcontrast&show_icons=true))
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyas5&langs_count=8&layout=compact&theme=highcontrast&exclude_repo=pradnyas5.github.io,pradnyas5-v1.github.io)
 
 ---
