@@ -16,20 +16,23 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=mathworks)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-000000?style=flat&logo=visualbasic)
 
 ##### Technologies & Tools I work with
 
 ![ROS](https://img.shields.io/badge/-ROS-222222?style=flat&logo=ros&logoColor=white)
+![ROS 2](https://img.shields.io/badge/-ROS%202-222222?style=flat&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=tensorflow&logoColor=FF6F00)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-222222?style=flat&logo=pytorch&logoColor=E04E39)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Gazebo](https://img.shields.io/badge/-Gazebo-222222?style=flat&logo=gazebo)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=cmake)
+![CUDA](https://img.shields.io/badge/-CUDA-222222?style=flat&logo=nvidia&logoColor=76B900)
 
 ---
 
