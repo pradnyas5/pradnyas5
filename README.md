@@ -6,7 +6,7 @@
 ## I'm a Robotics Engineer passionate about Perception and Navigation!
 
 - 🤖 I’m currently working on robotics projects focused on perception, motion planning, and robot localization.
-- 🛠 I’m proficient in computer vision, robot kinematics, and path planning algorithms like RRT\* and A\*.
+- 🛠 I’m proficient in computer vision, deep learning, state estimation, and motion planning.
 - 🌱 Learning new technologies in robotics and artificial intelligence to create autonomous systems.
 - 🎯 Future Goals: Contribute to cutting-edge research in robotics and deploy real-world applications.
 
